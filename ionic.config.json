@@ -1,6 +1,6 @@
 {
-  "name": "inAppBrowserExample",
+  "name": "ionic-in-app-browser",
   "app_id": "",
-  "v2": true,
-  "typescript": true
+  "integrations": {},
+  "type": "ionic-angular"
 }
