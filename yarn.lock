@@ -66,9 +66,10 @@
   version "4.5.3"
   resolved "https://registry.yarnpkg.com/@ionic-native/core/-/core-4.5.3.tgz#bd0fd39e7257ded4c55c3062bb73c9741a2263bc"
 
-"@ionic-native/in-app-browser@^4.5.3":
-  version "4.5.3"
-  resolved "https://registry.yarnpkg.com/@ionic-native/in-app-browser/-/in-app-browser-4.5.3.tgz#3e94b8aa239449a92d91d2cd02e5f19962a5c823"
+"@ionic-native/in-app-browser@^4.20.0":
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/in-app-browser/-/in-app-browser-4.20.0.tgz#7b0d2b24a315bc1326b114d82f210cfcb2862b1c"
+  integrity sha512-y04sEK2ssb0ipeZTB3HPjVpGTYJUkPupjrAPx9hvbzWB0g1CHRWcsnQHezxItGz/jCQzUAKOjxQZ23oy8Qf4Bg==
 
 "@ionic-native/splash-screen@3.4.2":
   version "3.4.2"
